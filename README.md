@@ -15,10 +15,10 @@
 <table>
   <tr>
     <td>
-      <img src="./files/images/logo.png" alt="Task Descriptions">
+      <img src="./figure/fcn.png" alt="test_picture">
     </td>
     <td>
-      <img src="./files/QR-Code.png" alt="Task Descriptions">
+      <img src="./figure/fcn.png" alt="test_picture">
     </td>
   </tr>
 </table>
