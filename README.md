@@ -1,4 +1,4 @@
-<h1 align="center">具身智能技术指南 Embodied-AI-Guide</h1>
+<h1 align="center">课题组学习入门指南</h1>
 
 <p align="center"> </p>
 
