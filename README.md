@@ -21,7 +21,8 @@
 
 <h2 id="chapter3">第三章 具身智能ROS</h2>
 <!-- 这里是具身智能ROS内容 -->
-### 更多信息直接访问<p>📘 本项目参考：<a href="https://github.com/TianxingChen/Embodied-AI-Guide">Embodied-AI-Guide</a></p>
+### info
+<p>📘 本项目参考：<a href="https://github.com/TianxingChen/Embodied-AI-Guide">Embodied-AI-Guide</a></p>
 
 Lumina具身智能社区: [点击访问](https://lumina-embodied.ai)
 
