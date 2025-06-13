@@ -30,7 +30,7 @@
   * Pytorch小土堆[bilibili](https://www.bilibili.com/video/BV1hE411t7RN/?spm_id_from=333.337.search-card.all.click&vd_source=f96d7e2d73028ded8635be8ab0ef701c)
 * IDE
   * VScode/Pycharm
-  * VScode+Anaconda+CUDA+Pytorch SSH服务器配置
+  * VScode+Anaconda+CUDA+Pytorch SSH服务器配置[Zhihu](https://zhuanlan.zhihu.com/p/693620785)
 * 实战代码项目
   * Transformer
   * CNN
