@@ -19,6 +19,8 @@
 <img src="figure/fcn.png" alt="课题组照片" style="max-width: 100%; height: auto;" />
 <h2 id="chapter2">第二章 入门深度学习</h2>
 <!-- 这里是入门深度学习内容 -->
+* 必备知识 
+   * Linux、Pytorch、408
 
 <h2 id="chapter3">第三章 具身智能ROS</h2>
 <!-- 这里是具身智能ROS内容 -->
