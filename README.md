@@ -22,11 +22,11 @@
 
 * 必备知识
   * Linux、Pytroch、408
-  * 
+  * python、C++
 * 建议书籍
-  * 
+  * 深度学习花书、鱼书
 * 入门视频
-  * 吴恩达机器学习
+  * 吴恩达机器学习[bilibili](https://www.bilibili.com/video/BV164411b7dx/?spm_id_from=333.337.search-card.all.click&vd_source=f96d7e2d73028ded8635be8ab0ef701c)
   * Pytorch小土堆
 * IDE
   * VScode/Pycharm
