@@ -15,6 +15,7 @@
 </nav>
 <h2 id="chapter1">第一章 课题组介绍</h2>
 <!-- 这里是课题组介绍内容 -->
+* 实验室资料见QQ群
 <img src="figure/fcn.png" alt="课题组照片" style="max-width: 100%; height: auto;" />
 <h2 id="chapter2">第二章 入门深度学习</h2>
 <!-- 这里是入门深度学习内容 -->
