@@ -20,12 +20,12 @@
 <h2 id="chapter2">第二章 入门深度学习</h2>
 <!-- 这里是入门深度学习内容 -->
 * 必备知识 
-   * Linux、Pytorch、408
+  * Linux、Pytorch、408
 * 建议书籍
   
 * 入门视频
-  吴恩达机器学习
-  Pytorch小土堆
+  * 吴恩达机器学习
+  * Pytorch小土堆
 * IDE
   * VScode/Pycharm
   * VScode+Anaconda+CUDA+Pytorch SSH服务器配置
