@@ -29,6 +29,7 @@
 * 入门视频
   * 吴恩达机器学习[bilibili](https://www.bilibili.com/video/BV164411b7dx/?spm_id_from=333.337.search-card.all.click&vd_source=f96d7e2d73028ded8635be8ab0ef701c)
   * Pytorch小土堆[bilibili](https://www.bilibili.com/video/BV1hE411t7RN/?spm_id_from=333.337.search-card.all.click&vd_source=f96d7e2d73028ded8635be8ab0ef701c)
+  * 研一基本功[bilibili](https://www.bilibili.com/video/BV1Fw4m1C7Tq/?spm_id_from=333.1387.favlist.content.click&vd_source=f96d7e2d73028ded8635be8ab0ef701c)
 * IDE
   * VScode/Pycharm
   * VScode+Anaconda+CUDA+Pytorch SSH服务器配置[Zhihu](https://zhuanlan.zhihu.com/p/693620785)
