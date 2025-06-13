@@ -21,7 +21,22 @@
 <!-- 这里是入门深度学习内容 -->
 * 必备知识 
    * Linux、Pytorch、408
-
+* 建议书籍
+  
+* 入门视频
+  吴恩达机器学习
+  Pytorch小土堆
+* IDE
+  * VScode/Pycharm
+  * VScode+Anaconda+CUDA+Pytorch SSH服务器配置
+* 实战代码项目
+  * Transformer
+  * CNN
+  * Mamba
+  * Diffusion Model
+  * Clip
+  * LLM
+  * ...
 <h2 id="chapter3">第三章 具身智能ROS</h2>
 <!-- 这里是具身智能ROS内容 -->
 ### 更多信息直接访问<p>📘 本项目参考：<a href="https://github.com/TianxingChen/Embodied-AI-Guide">Embodied-AI-Guide</a></p>
